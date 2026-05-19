@@ -1,0 +1,19 @@
+# Mac junk
+.DS_Store
+__MACOSX/
+*.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+*.xlsx
